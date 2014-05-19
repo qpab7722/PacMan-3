@@ -1,0 +1,22 @@
+﻿  AbstractCamara.cpp
+AbstractCamara.cpp(112): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  cg.cpp
+cg.cpp(106): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Fantasma.cpp
+Fantasma.cpp(426): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Game.cpp
+Game.cpp(158): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Labirinto.cpp
+Labirinto.cpp(294): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Olho.cpp
+Olho.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  OrthoCamara.cpp
+OrthoCamara.cpp(16): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Pacman.cpp
+Pacman.cpp(172): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Particle.cpp
+Particle.cpp(58): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  ParticleManager.cpp
+ParticleManager.cpp(92): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  PerspCamara.cpp
+PerspCamara.cpp(23): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?

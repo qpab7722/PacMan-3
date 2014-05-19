@@ -1,0 +1,21 @@
+#include<iostream>
+
+int main()
+{
+	FILE *in, *out;
+	char aux;
+	char *filename = NULL;
+	printf("digite nome do arquivo de origem \n");
+	scanf("%s", filename);
+	in = fopen(filename, "r+");
+	out = fopen("name", "w+");
+	if(!in || !out){
+		printf("deumerda lol\n");
+		system("pause");
+	}
+	while(fscanf(in, "%c", &aux)){
+		if((aux >= 0) && (aux <= 3))
+		fprintf(out, "%d ", aux);
+	}
+	return 0;
+}
