@@ -8,3 +8,6 @@ Projeto desenvolvido por:
 Anna Maria Pompili <br>
 Ânia Pedrosa <br>
 Renato Scaroni <br>
+
+Uso: <br>
+Importar projeto no visual studio. Este projeto foi desenvolvido no visual studio 2010 express
